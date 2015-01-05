@@ -110,8 +110,9 @@
    <text xml:lang="eng">
       <front>
          <div type="title_page">
-            <pb facs="tcp:000377_0000_0FA5027EA68A5158"/>
-            <pb facs="tcp:000377_0001_0FA5027F76232D38" rendition="simple:additions"/>
+            <pb facs="unknown:000377_0000_0FA5027EA68A5158"/>
+            <pb facs="unknown:000377_0001_0FA5027F76232D38"
+                rendition="simple:additions"/>
             <p>A MONUMENTAL MEMORIAL OF MARINE MERCY BEING An Acknowledgment of an High Hand of <hi>Divine Deliverance</hi> on the <hi>Deep</hi> in the Time of distress, IN A Late Voyage from <hi>Boston</hi> in <hi>New-England</hi> To <hi>LONDON,</hi> Anno 1683.</p>
             <p>In a Poem. <hi>By Richard Steere.</hi>
             </p>
@@ -121,7 +122,7 @@
             <p>Printed at <hi>BOSTON</hi> in <hi>New-England</hi> by <hi>Richard Pierce</hi> for <hi>James Cowse</hi> Stationer Anno 1684.</p>
          </div>
          <div type="to_the_reader">
-            <pb facs="tcp:000377_0002_0FA5028548DB41F8"/>
+            <pb facs="unknown:000377_0002_0FA5028548DB41F8"/>
             <head>To the Reader.</head>
             <opener>
                <salute>Reader</salute>
@@ -129,14 +130,14 @@
             <p>
                <hi>I</hi> Here present thee with an Impartial Narrative, Collected from a <hi>Diurnall,</hi> and other Credible Informations of some Persons who had a share in this so <hi>never to be forgotten</hi> a Deliverance, and at whose Importunity it was Reduced into this small <hi>Tract,</hi> and shrouded in the modern Attire of <hi>Measure</hi> and <hi>Cadency,</hi> whose even and easie Pace being more Alluring and Captivating (Especially with youth, or the Crittically Ingenious of this Age) than the Elaborate <hi>Volumns</hi> of <hi>Prose</hi> left to us by our Worthy Ancestors, may probably the sooner <hi>Decoy</hi> or Invite thy Perusal.</p>
             <p>I could not Conveniently avoyd the use of some <hi>Sea phrases</hi> The Subject being a <hi>Sea Deliverance,</hi> tho they may seem improper and unintelligible to a <hi>Land Capacity.</hi> And if I have erred in missap|
-<pb facs="tcp:000377_0003_0FA50286A0CC6C60"/>
+<pb facs="unknown:000377_0003_0FA50286A0CC6C60"/>
 Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOLhyphen"/>genious <hi>Mariner</hi> will attribute it to the want of Ex<g ref="char:EOLhyphen"/>perience in the <hi>Tarpolin</hi> Tongue:</p>
             <figure/>
          </div>
       </front>
       <body>
          <div type="poem">
-            <pb n="1" facs="tcp:000377_0004_0FA50287DD4C4268"/>
+            <pb n="1" facs="unknown:000377_0004_0FA50287DD4C4268"/>
             <head>A MONVMENTAL MEMORIAL OF MARINE MERCY &amp;c.</head>
             <l>SInce Every <hi>Quill</hi> is silent to Relate</l>
             <l>What being known must needs be wonder'd at</l>
@@ -153,7 +154,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>His Anchors <hi>weigh'd</hi> in <hi>Massachusets BAY,</hi>
             </l>
             <l>
-               <pb n="2" facs="tcp:000377_0005_0FA502886C2479E0"/>
+               <pb n="2" facs="unknown:000377_0005_0FA502886C2479E0"/>
                <hi>New-England's</hi> Chiefest <hi>Port,</hi> and <hi>sayling</hi> on,</l>
             <l>Soon <hi>lay'd the Land</hi> below the <hi>Horizon.</hi>
             </l>
@@ -192,7 +193,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>Of calme Security, nor had we known</l>
             <l>The Excellence of <hi>PRESERVATION</hi>:</l>
             <l>
-               <pb n="3" facs="tcp:000377_0006_0FA50289318B49E0"/>We had been Dumb and silent to Express</l>
+               <pb n="3" facs="unknown:000377_0006_0FA50289318B49E0"/>We had been Dumb and silent to Express</l>
             <l>Affectedly the Voy'ges good success.</l>
             <l>But to awake and Rowse our sleepy minds,</l>
             <l>The <hi>Po'wrs</hi> above let loose th' unruly winds,</l>
@@ -232,7 +233,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>And understood she from <hi>East India</hi> came,</l>
             <l>Under Command of Captain <hi>Hide</hi> by Name</l>
             <l>
-               <pb n="4" facs="tcp:000377_0007_0FA50289FB572598"/>Burden <hi>six hundred Tuns</hi> and <hi>Ninety Men</hi>
+               <pb n="4" facs="unknown:000377_0007_0FA50289FB572598"/>Burden <hi>six hundred Tuns</hi> and <hi>Ninety Men</hi>
             </l>
             <l>Having about ten <hi>months</hi> from <hi>India</hi> been,</l>
             <l>And had bin <hi>Beating</hi> six <hi>weeks</hi> on the <hi>Coast</hi>
@@ -273,7 +274,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>From the <hi>Fore-castle</hi> to the <hi>Quarter Deck,</hi>
             </l>
             <l>
-               <pb n="5" facs="tcp:000377_0008_0FA5028B9A9D89A0"/>The <hi>Long boat, Windless, Captstern,</hi> with the blow</l>
+               <pb n="5" facs="unknown:000377_0008_0FA5028B9A9D89A0"/>The <hi>Long boat, Windless, Captstern,</hi> with the blow</l>
             <l>Besides two weighty <hi>Anchors</hi> from the <hi>Bow,</hi>
             </l>
             <l>With <hi>Ropes,</hi> &amp; <hi>Ring-bolts</hi> (where <hi>y<hi rend="sup">e</hi> Boat</hi> was fast,</l>
@@ -310,7 +311,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             </l>
             <l>And we were often buri'd in the <hi>Deep</hi>:</l>
             <l>
-               <pb n="6" facs="tcp:000377_0009_0FA5028C39030438"/>The Chests <hi>between Decks swim</hi> as in a <hi>flood,</hi>
+               <pb n="6" facs="unknown:000377_0009_0FA5028C39030438"/>The Chests <hi>between Decks swim</hi> as in a <hi>flood,</hi>
             </l>
             <l>Where men up to their <hi>knees</hi> in water stood,</l>
             <l>Expecting ev'ry Moment <hi>grim look'd Death</hi>
@@ -350,7 +351,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>
                <hi>Gregory Sugar</hi> was her <hi>Captains</hi> Name;</l>
             <l>
-               <pb n="7" facs="tcp:000377_0010_0FA5028CED27FF60"/>So <hi>Leaky</hi> (that tho they did what they could)</l>
+               <pb n="7" facs="unknown:000377_0010_0FA5028CED27FF60"/>So <hi>Leaky</hi> (that tho they did what they could)</l>
             <l>Sh' had <hi>six</hi> or <hi>sev'n foot water in the Hould,</hi>
             </l>
             <l>The Safety of their <hi>Lives</hi> they only sought,</l>
@@ -392,7 +393,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>Their <hi>wants,</hi> their <hi>loss</hi> we could not choose but <hi>grieve.</hi>
             </l>
             <l>
-               <pb n="8" facs="tcp:000377_0011_0FA5028DE19FE900"/>And now some Comfort we begin to find,</l>
+               <pb n="8" facs="unknown:000377_0011_0FA5028DE19FE900"/>And now some Comfort we begin to find,</l>
             <l>The <hi>winds</hi> are <hi>Calmer</hi> and the <hi>Seas</hi> more kind,</l>
             <l>Now Heav'ns alscourging hand its strokes withdrew</l>
             <l>And former Consolations did Renew,</l>
@@ -433,7 +434,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>To bring us up, broke in the <hi>shank.</hi> and we</l>
             <l>Again (by Violence) <hi>Drove out to Sea</hi>;</l>
             <l>
-               <pb n="9" facs="tcp:000377_0012_0FA5028E65641520"/>We thought to <hi>Anchor</hi> then in <hi>Poulstone Bay,</hi>
+               <pb n="9" facs="unknown:000377_0012_0FA5028E65641520"/>We thought to <hi>Anchor</hi> then in <hi>Poulstone Bay,</hi>
             </l>
             <l>And let our <hi>small Bower go</hi> without delay,</l>
             <l>Which like a rotten stick was quickly broke</l>
@@ -473,7 +474,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>But what thou dost require:</l>
             <l>O who can view thy <hi>pow'r,</hi> &amp; not thy <hi>pow'r</hi> admire.</l>
             <l>
-               <pb n="10" facs="tcp:000377_0013_0FA502925007F548"/>Tis thou Alone art our alone support,</l>
+               <pb n="10" facs="unknown:000377_0013_0FA502925007F548"/>Tis thou Alone art our alone support,</l>
             <l>Thy Mercy's our strong fort,</l>
             <l>Thou giv'st us length of dayes,</l>
             <l>To thee th' <hi>Almighty</hi> and <hi>Tri-une</hi> IEHOVE,</l>
@@ -485,7 +486,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             </l>
          </div>
          <div type="poem">
-            <pb n="11" facs="tcp:000377_0014_0FA5029447DF8C78"/>
+            <pb n="11" facs="unknown:000377_0014_0FA5029447DF8C78"/>
             <head>A POEM <hi>OCCASIONALLY WRITTEN</hi> ON Some <hi>Remarkables</hi> hap'ning at the <hi>Birth</hi> of the <hi>Son</hi> of <hi>Thomas</hi> and <hi>Sarah Wallis</hi> upon the <hi>Atlantick</hi> or Western <hi>Ocean,</hi> July the <hi>26 1684.</hi>
             </head>
             <l>
@@ -520,7 +521,7 @@ Misapplying those <hi>Termes</hi> of <hi>Art,</hi> I hope the In<g ref="char:EOL
             <l>These things attended thy <hi>Nativity.</hi>
             </l>
             <l>
-               <pb n="12" facs="tcp:000377_0015_0FA5029597E93F10"/>The <hi>Climate</hi> where thou thy first <hi>breath</hi> didst draw,</l>
+               <pb n="12" facs="unknown:000377_0015_0FA5029597E93F10"/>The <hi>Climate</hi> where thou thy first <hi>breath</hi> didst draw,</l>
             <l>Was between <hi>Europe</hi> and <hi>America</hi>:</l>
             <l>About the <hi>Latitude</hi> of <hi>Forty four,</hi>
             </l>
